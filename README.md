@@ -5,13 +5,13 @@
 ## Description
 Project aims to display current weather data of searched city around the world with fetching Weather Api data.
 
-## Learning Outcomes
+## Learning Outcomes.
 
 At the end of the this project
 
 - analyze a problem, create a weather condition app populated with a real weather api.
 
-- demonstrate their knowledge of algorithmic design principles.
+- demonstrate their knowledge of algorithmic design principles...
 
    
 ## Problem Statement
